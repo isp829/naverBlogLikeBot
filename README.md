@@ -11,3 +11,7 @@
 [프로그램 바로가기](naverBlogLikeBot.py)
 ### OS별 Selenium 다운로드
 [Selenuim 다운받기](https://www.selenium.dev/)
+## 설명
+autolike: 기본 코드
+Search_Autolike: 검색 기능
+autolikeV4: 통합 Gui
